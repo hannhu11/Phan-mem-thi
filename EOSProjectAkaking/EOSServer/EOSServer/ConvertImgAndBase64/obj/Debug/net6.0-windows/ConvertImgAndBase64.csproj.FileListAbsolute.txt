@@ -1,0 +1,17 @@
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\bin\Debug\net6.0-windows\ConvertImgAndBase64.exe
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\bin\Debug\net6.0-windows\ConvertImgAndBase64.deps.json
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\bin\Debug\net6.0-windows\ConvertImgAndBase64.runtimeconfig.json
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\bin\Debug\net6.0-windows\ConvertImgAndBase64.dll
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\bin\Debug\net6.0-windows\ConvertImgAndBase64.pdb
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.csproj.AssemblyReference.cache
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.ImgAndBase64.resources
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.csproj.GenerateResource.cache
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.AssemblyInfoInputs.cache
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.AssemblyInfo.cs
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.csproj.CoreCompileInputs.cache
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.dll
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\refint\ConvertImgAndBase64.dll
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.pdb
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ConvertImgAndBase64.genruntimeconfig.cache
+C:\Users\buidu\OneDrive\Desktop\EOSServer\ConvertImgAndBase64\obj\Debug\net6.0-windows\ref\ConvertImgAndBase64.dll

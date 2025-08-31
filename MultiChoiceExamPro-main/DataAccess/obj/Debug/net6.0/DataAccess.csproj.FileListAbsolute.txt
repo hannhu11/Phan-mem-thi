@@ -1,0 +1,15 @@
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\asus\Source\Repos\MultiChoiceExamPro\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ijRr1yqGpUX+9z/F/3CoInpl3f8TGCrtXnqb5KjDoM0CBvR4bhBPKLx73dKsVdYUxBE3Rv3xx0anC7IdzEecKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buidu\\OneDrive\\Desktop\\EOSServer\\EOSClientSimple\\EOSClientSimple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buidu\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
